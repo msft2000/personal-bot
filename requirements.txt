@@ -1,0 +1,8 @@
+nltk
+SpeechRecognition
+os
+math
+string
+pyaudio
+gtts
+playsound
